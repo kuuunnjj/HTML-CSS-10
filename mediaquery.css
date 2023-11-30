@@ -1,0 +1,2670 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 340px) and (max-width: 600px){
+    .menu{
+        margin: 20px 20px 0px 20px ;
+    }
+    .logo img{
+        width: 100px;
+    }
+    .hamburger2{
+        display: block;
+    }
+    .hrhead{
+        margin: 5px 20px 0px 20px ;
+    }
+    .herosection{
+        margin: 30px 20px 40px 20px ;
+    }
+    .dframe593{
+        display: none;
+    }
+    .herosection{
+        display: flex;
+        flex-direction: column;
+    }
+    .herocontent{
+        text-align: center;
+    }
+    .herobutton{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .heroimg{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .heroimg img{
+        width: 270px;
+    }
+    .herocontent{
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    .herocontent .head .h1{
+        font-weight: 700;
+        font-size: 1.6rem;
+        line-height: 32px;
+        margin-bottom: 20px;
+    }
+    .herocontent .head .p{
+        font-weight: 400;
+        font-size: 9px;
+        line-height: 12px;
+        margin: 20px 0px 35px 0px;   
+    }
+    .herobutton1 button{
+        width: 110px;
+        height: 30px;
+        font-size: 10px;
+        border-radius: 6px;
+    }
+    .herobutton2 button{
+        width: 110px;
+        height: 30px;
+        font-size: 10px;
+        border-radius: 6px;
+    }
+    .herobutton1{
+        margin-right: 10px;
+    }
+
+    /* header  */
+
+    /* services  */
+
+    .holder1{
+        padding: 0px 20px 0px 20px  ;
+    }
+
+    .holder{
+        padding-bottom: 10px;
+    }
+    .holder1{
+        display: flex;
+        flex-direction: column;
+    }
+    .servicecontent1 .h1,.p{
+        display: flex;
+        justify-content: center; 
+    }
+    .servicecontent1 .h1{
+        font-size: 1.5rem;
+        margin-bottom: 0px;
+    }
+    .servicecontent1 .p{
+        font-size: 0.7rem;
+        margin-top: -10px;
+    }
+    .servicecontent1{
+        margin-top: 30px;
+    }
+    .servicecontent2{
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .servicecontent2 p{
+        font-size: 1.3rem;
+        margin-top: 10px;
+    }
+    .servicecontent2 img{
+        width: 20px;
+        margin: 0px;
+        padding-top: 20px;
+    }
+    .servicecontent2 .sbox1 p{
+        font-size: 10px;
+       
+    }
+    .servicecontent2 .sbox2 p{
+        font-size: 10px;
+    }
+    .sbox1, .sbox2 , .sbox3{
+        width: 100px;
+        height: 95px;
+        background-color: #ffffff;
+        color: #52525B;
+        padding: 0px;
+        text-align: center;
+        border-radius: 6%;
+        font-weight: 600;
+        margin: 0px 5px 0px 5px;
+       
+    }
+    .kcontent{
+        margin-top: 40px;
+        
+    }
+    .kimg{
+        margin-top: 0px;
+    }
+    .sbox3{
+        display: none;
+    }
+    .keyservices{
+        display: flex;
+        flex-direction: column;
+    }
+    .kheader{
+        margin: 0px ;
+        padding: 0px;
+    }
+    .kheader .hr{
+        display: none;
+    }
+    .kheader .h1{
+        text-align: center;
+        font-size: 1.7rem;
+        padding-top: 50px;
+        line-height: 35px;
+        margin-bottom: 10px;
+    }
+    .kheader .h1 span{
+        font-size: 2.5rem;
+    }
+    .kbg1{
+        width: 100%;
+    }
+    .kheader .kimg img{
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        margin-inline: 50px;
+        padding-top: 30px;
+    }
+   .kcontent{
+    display: none;
+   }
+   .keyservices{
+    margin-bottom: 60px;
+}
+
+/* end of services  */
+
+
+/* features  */
+
+.features .f1{
+    padding-inline: 10px;
+}
+.fhr, .fhr1, .fhr2, .fhr3{
+    display: none;
+}
+
+.fbox{
+    display: none;
+}
+.fboxr{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    margin-bottom: 30px;
+}
+.fboxr1{
+    display: flex;
+    flex-direction: row;
+}
+.fboxr2{
+    display: flex;
+    flex-direction: row;
+}
+.fboxr3{
+    display: flex;
+    flex-direction: row;
+}
+.fboxr1 .b1,.b2{
+    margin-bottom: 15px;
+    width: 150px;
+    height: 140px;
+    padding-top: 20px;
+    margin-inline: 10px;
+    border-radius: 4px;
+   
+}
+
+.fboxr2 .b3,.b4{
+    margin-bottom: 15px;
+    width: 150px;
+    height: 140px;
+    padding-top: 20px;
+    margin-inline: 10px;
+    border-radius: 4px;
+}
+.fboxr3 .b5,.b6{
+    margin-bottom: 15px;
+    width: 150px;
+    height: 140px;
+    padding-top: 20px;
+    margin-inline: 10px;
+    border-radius: 4px;
+}
+.fboxr img{
+    width: 30px;
+    height: 30px;
+    
+    
+}
+.fboxr h3{
+    font-size: 12px;
+    padding: 0px;
+    margin: 0px;
+}
+.fboxr p{
+    font-size: 5px;
+    line-height: 10px;
+    padding: 0px;
+    margin: 0px;
+}
+.ftext{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-inline: 20px;
+    padding: 0px;
+}
+.ftext br{
+    display: none;
+}
+.ftext h1{
+    display: none;
+}
+.ftext h1 span{
+    display: none;
+}
+
+.ftext h2{
+    font-size: 2rem;
+    line-height: 50px;
+    padding-top: 0px;
+    text-align: center;
+}
+.ftext h2 span{
+    font-size: 2rem;
+}
+.c2a{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.c2a h1{
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 45px;
+    padding-bottom: 0px;
+}
+.c2a h1 span{
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 45px;
+}
+.c2a p{
+   display: none;
+}
+
+.c2a button{
+    
+    width: 120px;
+    height: 27px;
+    font-size: 8px;
+    font-weight: 400;
+    border-radius: 5px;
+
+}
+
+.c2a button{
+    border: 1px solid white;
+}
+.fboxr{
+    margin-bottom: 30px;
+}
+
+
+/* end of features  */
+
+
+/* who we are  */
+
+.whoweare{
+margin-top: 0px;
+margin-bottom: 30px;
+}
+.whoweare{
+margin-inline: 20px;
+}
+.wheader br{
+display: none;
+}
+.wheader{
+display: flex;
+flex-direction: column;
+margin-bottom: 10px;
+}
+.wheader .h1{
+font-size: 28px;
+line-height: 62px;
+margin-bottom: 20px;
+margin-top: 20px;
+margin-bottom: 0px;
+
+}
+.wheader .h1 span{
+font-size: 28px;
+line-height: 62px;
+margin-bottom: 0px;
+
+}
+.whr{
+display: none;
+}
+.wheader .h2 {
+display: none;
+
+}
+.wheader .h2 span{
+display: none;
+}
+.wcontent{
+display: flex;
+position: relative;
+align-items: center;
+flex-direction: column;
+padding-top: 15px;
+}
+.wcontent img{
+display: none;
+}
+.wtext {
+border: 1px solid rgba(82, 82, 91, 0.1);
+border-radius: 5px;
+padding-inline: 0px;
+height: 210px;
+width: 300px;
+padding-top: 0px;
+margin-right: 0px;
+margin-top: 0px;
+
+}
+.wheader{
+display: flex;
+align-items: center;
+}
+.wtext{
+    padding-left: 0px;
+}
+.wtext .h2{
+padding-top: 20px;
+text-align: center;
+font-size: 18px;
+font-weight: 600;
+}
+.wtext .p{
+text-align: center;
+font-size: 9px;
+margin-top: 5px;
+line-height: 20px;
+
+}
+.wcontent{
+display: flex;
+justify-content: space-between;
+}
+.wcontent .img2 {
+display: none;
+}
+.wcontent .img3 {
+display: none;
+}
+.whoweare{
+    margin-bottom: 60px;
+}
+/* end of who we are  */
+
+/* team  */
+
+.t22 .thr{
+    display: none;
+}
+.theader{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+}
+.t22{
+    padding-inline: 0px;
+}
+.theader br{
+    display: none;
+}
+.theader .h2{
+    display: none;
+}
+.team{
+    padding-top: 30px;
+    
+    
+}
+
+
+.theader .h1{
+    font-size: 25px;
+    padding-top: 0px;
+}
+.theader .h1 span{
+    font-size: 25px;
+}
+.tteam .h3{
+    padding-top: 25px;
+    padding-bottom: 10px;
+    color: #18181B;
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 400;
+}
+.tp1{
+    padding-bottom: 15px;
+    font-size: 10px;
+    line-height: 18px;
+    color: #777777;
+    font-weight: 400;
+}
+.tteam .h3{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.tteam{
+    padding-top: 20px;
+}
+.timg1,.timg2,.timg3,.timg4{
+    width: 180px;   
+}
+.timg4,.timg3{
+    display: none;
+}
+.tteam img{
+    width: 130px;
+}
+.tbt1 button{
+    width: 110px;
+    height: 37px;
+    background-color:  #F8FAFC;;
+    color:var(--primary-color) ;
+    border-radius: 6px;
+    border: 1px solid var(--primary-color);
+    font-size: 12px;
+    font-weight: 400;
+}
+.tteam{
+    margin-inline: 50px;
+}
+
+/* end of team  */
+
+
+
+/* clientreview */
+
+.clientreview{
+    padding-inline: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.ccontent .h1 h1{
+    padding-top: 50px;
+    font-size: 29px;
+    line-height: 30px;
+    text-align: center;
+}
+.ccontent .h1 h1 span{
+    display: none;
+}
+
+.ccontent .cimg2 img{
+    padding-top: 40px;
+    width: 35px;
+}
+.cimg1 img{
+    display: none;
+    padding-inline: 0px;
+    margin-inline: 0px;
+ }
+ .ccontent .p{
+    display: none;
+}
+ .ccontent .p2{
+    padding-top: 20px;
+    font-size: 10.5px;
+    line-height: 20px;
+    font-weight: 400px;
+  
+}
+
+/* end of clientreview */
+
+/* appointment */
+
+/* end of appoinment  */
+
+
+/* newsletter */
+
+.newsletter6{
+    display: block;
+}
+
+/* end of newsletter */
+
+/* footer  */
+
+.footer .part2 {
+    display: none;
+}
+.footer .part4 {
+    display: none;
+}
+.footer .footer1 {
+    padding-inline: 5px;
+}
+.footer .img img{
+    width: 100px;
+}
+.footer1 {
+    padding-top: 60px;
+}
+.footer {
+    height: 350px;
+}
+.footer2{
+    padding-inline: 40px;
+    top: 55px;
+    height: 50px;
+}
+
+.footer p{
+    font-size: 9px;
+}
+
+/* end of footer  */
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 601px) and (max-width:768px) {
+
+    /* header  */
+
+    .menu{
+        margin: 20px 30px 0px 30px ;
+    }
+    .ccontent .p2{
+        display: none;
+    }
+    .hrhead{
+        margin: 15px 30px 0px 30px ;
+    }
+    .herosection{
+        margin: 40px 30px 70px 30px ;
+    }
+    .dframe593{
+        display: none;
+    }
+    .hamburger{
+        display: block;
+    }
+    .herosection{
+        display: flex;
+        flex-direction: column;
+    }
+    .herocontent{
+        text-align: center;
+    }
+    .herobutton{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .heroimg{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .heroimg img{
+        width: 450px;
+    }
+    .herocontent{
+        margin-top: 30px;
+        margin-bottom: 60px;
+    }
+    .herocontent .head .h1{
+        font-weight: 700;
+        font-size: 2.6rem;
+        line-height: 50px;
+        margin-bottom: 30px;
+    }
+    .herocontent .head .p{
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        margin: 20px 0px 60px 0px;   
+    }
+    .herobutton1 button{
+        width: 150px;
+        height: 40px;
+    }
+    .herobutton2 button{
+        width: 150px;
+        height: 40px;
+    }
+     /* header  */
+
+    
+    /* services  */
+
+    .holder1{
+        padding: 15px 30px 0px 30px  ;
+    }
+
+    .holder{
+        padding-bottom: 20px;
+    }
+    .holder1{
+        display: flex;
+        flex-direction: column;
+    }
+    .servicecontent1 .h1,.p{
+        display: flex;
+        justify-content: center; 
+    }
+    .servicecontent1 .h1{
+        font-size: 2.7rem;
+        margin-bottom: 10px;
+    }
+    .servicecontent1 .p{
+        font-size: 1.1rem;
+    }
+    .servicecontent1{
+        margin-top: 50px;
+    }
+    .servicecontent2{
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .servicecontent2 p{
+        font-size: 1.3rem;
+        margin-top: 10px;
+    }
+    .servicecontent2 img{
+        width: 27px;
+    }
+    .servicecontent2 .sbox1 p{
+        font-size: 15px;
+    }
+    .servicecontent2 .sbox2 p{
+        font-size: 15px;
+    }
+    .servicecontent2 .sbox3 p{
+        font-size: 15px;
+    }
+    .sbox1, .sbox2 , .sbox3{
+        width: 145px;
+        height: 140px;
+        background-color: #ffffff;
+        color: #52525B;
+        padding: 10px 5px 10px 5px;
+        text-align: center;
+        border-radius: 8px;
+        margin-inline: 7px;
+        font-weight: 600;
+        font-size: 2px;  
+    }
+    .keyservices{
+        display: flex;
+        flex-direction: column;
+    }
+    .kheader{
+        margin: 0px 30px 0px 30px;
+        padding: 0px;
+    }
+    .kheader .h1{
+        text-align: center;
+        font-size: 2.5rem;
+        padding-top: 100px;
+        line-height: 50px;
+    }
+    .kheader .h1 span{
+        font-size: 3.5rem;
+    }
+    .kbg1{
+        width: 100%;
+    }
+    .kheader .kimg img{
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        margin-inline: 30px;
+        padding-top: 50px;
+    }
+    .kcontent .p{
+       display: none;
+    }
+    .kcontent{
+        margin-top: 25px;
+    }
+    .kcontent .hr hr {
+        display: none;
+    }
+    .kcontent .h1 {
+        display: flex;
+        justify-content: center;
+        margin-top: 70px;
+        margin-bottom: 20px;
+        font-size: 1.4rem;
+        
+    }
+    .ktable{
+        display: flex;
+        justify-content: center;
+        margin-left: 30px;
+        
+    }
+    .ktable img{
+        width: 15px;
+    }
+    .ktable span{
+        font-size: 1.07rem;
+        
+    }
+    .ktable1{
+        margin-right: 20px;
+    }
+    .keyservices{
+        margin-bottom: 40px;
+    }
+
+    /* end of services  */
+
+
+    /* features  */
+
+    .features .f1{
+        padding-inline: 30px;
+    }
+    .fhr, .fhr1, .fhr2, .fhr3{
+        display: none;
+    }
+    .fboxr{
+        margin-bottom: 40px;
+    }
+   
+    .fbox{
+        display: none;
+    }
+    .fboxr{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        position: relative;
+    }
+    .fboxr1{
+        display: flex;
+        flex-direction: row;
+    }
+    .fboxr2{
+        display: flex;
+        flex-direction: row;
+    }
+    .fboxr3{
+        display: flex;
+        flex-direction: row;
+    }
+    .fboxr1 .b1,.b2{
+        margin-bottom: 30px;
+        width: 240px;
+        height: 220px;
+        padding-top: 30px;
+        margin-inline: 15px;
+        border-radius: 6px;
+    }
+    .fboxr2 .b3,.b4{
+        margin-bottom: 30px;
+        width: 240px;
+        height: 220px;
+        padding-top: 30px;
+        margin-inline: 15px;
+        border-radius: 6px;
+    }
+    .fboxr3 .b5,.b6{
+       margin-bottom: 30px;
+        width: 240px;
+        height: 220px;
+        padding-top: 30px;
+        margin-inline: 15px;
+        border-radius: 6px;
+    }
+    .fboxr img{
+        width: 50px;
+        height: 50px;
+        
+        
+    }
+    .fboxr h3{
+        font-size: 17px;
+    }
+    .fboxr p{
+        font-size: 10px;
+        line-height: 18px;
+    }
+    .ftext{
+        padding-bottom: 30px;
+        display: flex;
+        flex-direction: column;
+        margin-inline: 30px;
+    }
+    .ftext br{
+        display: none;
+    }
+    .ftext h1{
+        display: none;
+    }
+    .ftext h1 span{
+        display: none;
+    }
+    
+    .ftext h2{
+        font-size: 2.5rem;
+        line-height: 50px;
+        padding-top: 0px;
+        text-align: center;
+    }
+    .ftext h2 span{
+        font-size: 2.5rem;
+    }
+    .c2a{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .c2a h1{
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 50px;
+        padding-bottom: 14px;
+    }
+    .c2a h1 span{
+        font-size: 37px;
+        font-weight: 600;
+        line-height: 50px;
+    }
+    .c2a p{
+        font-size: 10.5px;
+        font-weight: 400;
+        line-height: 24px;
+        padding-bottom: 37px;
+    }
+    
+    .c2a button{
+        
+        width: 240px;
+        height: 40px;
+        font-size: 13.5px;
+        font-weight: 400;
+    
+    }
+    
+    .c2a button{
+        border: 1px solid white;
+    }
+    .fboxr{
+        margin-bottom: 30px;
+    }
+
+
+   /* end of features  */
+    
+
+/* who we are  */
+
+.whoweare{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.whoweare{
+    margin-inline: 30px;
+}
+.wheader br{
+    display: none;
+}
+.wheader{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.wheader .h1{
+    font-size: 33px;
+    line-height: 62px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+  
+}
+.wheader .h1 span{
+    font-size: 33px;
+    line-height: 62px;
+    margin-bottom: 0px;
+   
+}
+.whr{
+    display: none;
+}
+.wheader .h2 {
+    font-size: 2.8rem;
+    line-height: 37px; 
+    text-align: start; 
+    font-weight: 700;
+   
+  
+}
+.wheader .h2 span{
+    font-size: 2.8rem;
+    line-height: 37px; 
+   
+}
+.wcontent{
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 40px;
+}
+.wcontent img{
+    display: none;
+}
+.wtext {
+    border: 1px solid rgba(82, 82, 91, 0.1);
+    border-radius: 12px;
+    padding-inline: 0px;
+    height: 345px;
+    width: 570px;
+    padding-top: 0px;
+    padding-left: 20px;
+    margin-right: 0px;
+    margin-top: 10px;
+    
+}
+.wheader{
+    display: flex;
+    align-items: center;
+}
+.wtext .h2{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+.wtext .p{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 30px;
+    letter-spacing: 1px;
+}
+.wcontent{
+    display: flex;
+    justify-content: space-between;
+}
+.wcontent .img2 {
+    display: none;
+}
+.wcontent .img3 {
+    display: none;
+}
+.whoweare{
+    margin-bottom: 80px;
+}
+/* end of who we are  */
+
+/* team  */
+
+.t22 .thr{
+    display: none;
+}
+.theader{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+}
+.theader br{
+    display: none;
+}
+.theader .h2{
+    display: none;
+}
+.team{
+    padding-top: 70px;
+    
+}
+.theader .h1{
+    font-size: 42px;
+    padding-top: 0px;
+}
+.theader .h1 span{
+    font-size: 42px;
+}
+.tteam .h3{
+    padding-top: 25px;
+    padding-bottom: 10px;
+    color: #18181B;
+    font-size: 20px;
+    line-height: 34px;
+    font-weight: 400;
+}
+.tp1{
+    padding-bottom: 15px;
+    font-size: 18px;
+    line-height: 24px;
+    color: #777777;
+    font-weight: 400;
+}
+.tteam .h3{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.tteam{
+    padding-top: 60px;
+}
+.timg1,.timg2,.timg3,.timg4{
+    width: 280px;   
+}
+.timg4,.timg3{
+    display: none;
+}
+.tteam img{
+    width: 200px;
+}
+.tbt1 button{
+    width: 165px;
+    height: 46px;
+    background-color:  #F8FAFC;;
+    color:var(--primary-color) ;
+    border-radius: 8px;
+    border: 1px solid var(--primary-color);
+    font-size: 16px;
+    font-weight: 400;
+}
+.tteam{
+    margin-inline: 30px;
+}
+
+/* end of team  */
+
+
+/* clientreview */
+
+.clientreview{
+    padding-inline: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 60px;
+}
+.ccontent .h1 h1{
+    padding-top: 60px;
+    font-size: 34px;
+    line-height: 40px;
+    text-align: center;
+}
+.ccontent .h1 h1 span{
+    display: none;
+}
+
+.ccontent .cimg2 img{
+    padding-top: 40px;
+}
+.cimg1 img{
+    display: none;
+    padding-inline: 0px;
+    margin-inline: 0px;
+ }
+ .ccontent .p{
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 30px;
+    font-weight: 400px;
+}
+
+/* end of clientreview */
+
+/* appointment */
+
+/* end of appoinment  */
+
+
+/* newsletter */
+
+.newsletter5{
+    display: block;
+}
+
+/* end of newsletter */
+
+/* footer  */
+
+.footer .part2 {
+    display: none;
+}
+.footer .part4 {
+    display: none;
+}
+.footer .footer1 {
+    padding-inline: 10px;
+}
+.footer2{
+    top: 50px;
+}
+.footer p{
+    font-size: 14px;
+}
+
+/* end of footer  */
+
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 769px) and (max-width:992px) {
+    .menu{
+        margin: 40px 40px 0px 40px ;
+    }
+    
+    .ccontent .p2{
+        display: none;
+    }
+    .hrhead{
+        margin: 15px 40px 0px 40px  ;
+    }
+    .herosection{
+        margin: 50px 40px 70px 40px ;
+    }
+    .dframe593{
+        display: none;
+    }
+    .hamburger{
+        display: block;
+    }
+    .herosection{
+        display: flex;
+        flex-direction: column;
+    }
+    .herocontent{
+        text-align: center;
+    }
+    .herobutton{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .heroimg{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .heroimg img{
+        width: 570px;
+    }
+    .herocontent{
+        margin-top: 40px;
+        margin-bottom: 70px;
+    }
+    .herocontent .head .h1{
+        font-weight: 700;
+        font-size: 3.2rem;
+        line-height: 60px;
+        letter-spacing: 1px;
+        margin-bottom: 40px;
+    }
+    .herocontent .head .p{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 25px;
+        margin: 20px 0px 70px 0px;   
+    }
+    .herobutton1 button{
+        width: 180px;
+        height: 50px;
+    }
+    .herobutton2 button{
+        width: 180px;
+        height: 50px;
+    }
+
+    /* header  */
+
+    
+    /* services  */
+
+
+    .holder{
+        padding-bottom: 40px;
+    }
+    .holder1{
+        padding: 15px 40px 0px 40px  ;
+    }
+    .holder1{
+        display: flex;
+        flex-direction: column;
+    }
+    .servicecontent1 .h1,.p{
+        display: flex;
+        justify-content: center; 
+    }
+    .servicecontent1 .h1{
+        font-size: 3.4rem;
+        margin-bottom: 20px;
+        letter-spacing: 2px;
+    }
+    .servicecontent1 .p{
+        font-size: 1.4rem;
+    }
+    .servicecontent1{
+        margin-top: 70px;
+    }
+    .servicecontent2{
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+        margin-bottom: 10px;
+    }
+    .servicecontent2 p{
+        font-size: 1.3rem;
+        margin-top: 10px;
+    }
+    .servicecontent2 img{
+        width: 35px;
+    }
+    .servicecontent2 .sbox1 p{
+        font-size: 18px;
+    }
+    .servicecontent2 .sbox2 p{
+        font-size: 18px;
+    }
+    .servicecontent2 .sbox3 p{
+        font-size: 18px;
+    }
+    .sbox1, .sbox2 , .sbox3{
+        width: 175px;
+        height: 170px;
+        background-color: #ffffff;
+        color: #52525B;
+        padding: 15px 5px 15px 5px;
+        text-align: center;
+        border-radius: 10px;
+        margin-inline: 10px;
+        font-weight: 600;
+        font-size: 2px;  
+    }
+    .keyservices{
+        display: flex;
+        flex-direction: column;
+    }
+    .kheader{
+        margin: 0px 40px 0px 40px;
+        padding: 0px;
+    }
+    .kheader .h1{
+        text-align: center;
+        font-size: 3.5rem;
+        padding-top: 100px;
+        padding-bottom: 0px;
+        line-height: 70px;
+    }
+    .kheader .h1 span{
+        font-size: 4.5rem;
+    }
+    .kbg1{
+        width: 100%;
+    }
+    .kheader .kimg img{
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        margin-inline: 30px;
+        padding-top: 50px;
+    }
+    .kcontent .p{
+        font-size: 18px;
+        line-height: 35px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .kcontent .hr hr {
+        display: none;
+    }
+    .kcontent .h1 {
+        display: flex;
+        justify-content: center;
+        margin-top: 80px;
+        margin-bottom: 50px;
+        font-size: 2rem;
+        
+    }
+    .ktable{
+        display: flex;
+        justify-content: center;
+        font-size: 1rem;
+        margin-left: 40px;
+        
+    }
+    .ktable img{
+        width: 20px;
+    }
+    .ktable span{
+        font-size: 1.3rem;
+        
+    }
+    .ktable1{
+        margin-right: 60px;
+    }
+
+    .keyservices{
+        margin-bottom: 100px;
+    }
+
+    /* end of services  */
+
+
+    /* features  */
+
+    .features .f1{
+        padding-inline: 40px;
+    }
+    .fhr, .fhr1, .fhr2, .fhr3{
+        display: none;
+    }
+   
+    .fbox{
+        display: none;
+    }
+    .fboxr{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        position: relative;
+    }
+    .fboxr1{
+        display: flex;
+        flex-direction: row;
+    }
+    .fboxr2{
+        display: flex;
+        flex-direction: row;
+    }
+    .fboxr3{
+        display: flex;
+        flex-direction: row;
+    }
+    .fboxr1 .b1,.b2{
+        margin-right: 30px;
+        margin-bottom: 30px;
+        width: 300px;
+        height: 280px;
+        padding-top: 30px;
+    }
+    .fboxr2 .b3,.b4{
+        margin-right: 30px;
+        margin-bottom: 30px;
+        width: 300px;
+        height: 280px;
+        padding-top: 30px;
+    }
+    .fboxr3 .b5,.b6{
+        margin-right: 30px;
+        margin-bottom: 30px;
+        width: 300px;
+        height: 280px;
+        padding-top: 30px;
+    }
+    .fboxr img{
+        width: 80px;
+        height: 80px;
+        
+    }
+    .fboxr h3{
+        font-size: 20px;
+    }
+    .fboxr p{
+        font-size: 12px;
+    }
+    .ftext{
+        padding-bottom: 60px;
+        display: flex;
+        flex-direction: column;
+        margin-inline: 30px;
+        display: flex;
+        align-items: center;
+    }
+    .ftext br{
+        display: none;
+    }
+    .ftext h1{
+        font-size: 2.8rem;
+        line-height: 50px;
+    }
+    .ftext h1 span{
+        font-size: 2.8rem;
+        line-height: 50px;
+    }
+    
+    .ftext h2{
+        font-size: 2.4rem;
+        line-height: 50px;
+        padding-top: 0px;
+    }
+    .ftext h2 span{
+        font-size: 2.4rem;
+    }
+    .c2a{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .c2a h1{
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 50px;
+        padding-bottom: 14px;
+    }
+    .c2a h1 span{
+        font-size: 37px;
+        font-weight: 600;
+        line-height: 50px;
+    }
+    .c2a p{
+        font-size: 10.5px;
+        font-weight: 400;
+        line-height: 24px;
+        padding-bottom: 37px;
+    }
+    
+    .c2a button{
+        
+        width: 240px;
+        height: 40px;
+        font-size: 13.5px;
+        font-weight: 400;
+    
+    }
+    
+    .c2a button{
+        border: 1px solid white;
+    }
+    .fboxr{
+        margin-bottom: 50px;
+    }
+
+
+   /* end of features  */
+    
+
+/* who we are  */
+
+.whoweare{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.whoweare{
+    margin-inline: 40px;
+}
+.wheader br{
+    display: none;
+}
+.wheader{
+    display: flex;
+    flex-direction: column;
+}
+.wheader .h1{
+    font-size: 40px;
+    line-height: 62px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.wheader .h1 span{
+    font-size: 40px;
+    line-height: 62px;
+    margin-bottom: 0px;
+}
+.whr{
+    display: none;
+}
+.wheader .h2 {
+    font-size: 3.4rem;
+    line-height: 60px; 
+    text-align: start; 
+    font-weight: 700;
+  
+}
+.wheader .h2 span{
+    font-size: 3rem;
+    line-height: 60px; 
+}
+.wcontent{
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 40px;
+}
+.wcontent img{
+    display: none;
+}
+.wtext {
+    border: 1px solid rgba(82, 82, 91, 0.1);
+    border-radius: 12px;
+    padding-inline: 0px;
+    height: 350px;
+    width: 690px;
+    padding-top: 0px;
+    padding-left: 20px;
+    margin-right: 0px;
+    margin-top: 10px;
+    
+}
+.wheader{
+    display: flex;
+    align-items: center;
+}
+.wtext .h2{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.wtext .p{
+    text-align: center;
+    font-size: 17px;
+    margin-top: 30px;
+    letter-spacing: 1px;
+}
+.wcontent{
+    display: flex;
+    justify-content: space-between;
+}
+.wcontent .img2 {
+    display: none;
+}
+.wcontent .img3 {
+    display: none;
+}
+/* end of who we are  */
+
+/* team  */
+
+.t22 .thr{
+    display: none;
+}
+.theader{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+}
+.theader br{
+    display: none;
+}
+.theader .h2{
+    display: none;
+}
+.team{
+    padding-top: 70px;
+    
+}
+.theader .h1{
+    font-size: 45px;
+    padding-top: 0px;
+}
+.theader .h1 span{
+    font-size: 45px;
+}
+.tteam .h3{
+    padding-top: 25px;
+    padding-bottom: 10px;
+    color: #18181B;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 400;
+}
+.tp1{
+    padding-bottom: 15px;
+    font-size: 16px;
+    line-height: 22px;
+    color: #777777;
+    font-weight: 400;
+}
+.tteam .h3{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.tteam{
+    padding-top: 70px;
+}
+.timg1,.timg2,.timg3,.timg4{
+    width: 230px;   
+}
+.timg4{
+    display: none;
+}
+.tteam img{
+    width: 180px;
+}
+.tbt1 button{
+    width: 160px;
+    height: 44px;
+    background-color:  #F8FAFC;;
+    color:var(--primary-color) ;
+    border-radius: 8px;
+    border: 1px solid var(--primary-color);
+    font-size: 14px;
+    font-weight: 400;
+}
+.tteam{
+    margin-inline: 60px;
+}
+
+/* end of team  */
+
+
+/* clientreview */
+
+.clientreview{
+    padding-inline: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 80px;
+}
+.ccontent .h1 h1{
+    padding-top: 80px;
+    font-size: 38px;
+    line-height: 50px;
+    text-align: center;
+}
+.ccontent .cimg2 img{
+    padding-top: 60px;
+}
+.cimg1 img{
+    display: none;
+    padding-inline: 0px;
+    margin-inline: 0px;
+ }
+ .ccontent .p{
+    padding-top: 20px;
+    font-size: 16px;
+    line-height: 32px;
+    font-weight: 400px;
+}
+
+/* end of clientreview */
+
+/* appointment */
+
+/* end of appoinment  */
+
+
+/* newsletter */
+
+.newsletter4{
+    display: block;
+}
+
+/* end of newsletter */
+
+/* footer  */
+
+.footer .part2{
+    display: none;
+}
+.footer2{
+    top: 54px;
+}
+.footer p{
+    font-size: 12px;
+}
+
+/* end of footer  */
+
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 993px) and (max-width:1200px) {
+
+    /* header  */
+
+    .menu{
+        margin: 40px 60px 0px 60px ;
+    }
+    
+    .ccontent .p2{
+        display: none;
+    }
+    .hrhead{
+        margin: 15px 60px 0px 60px  ;
+    }
+    .herosection{
+        margin: 50px 60px 70px 60px ;
+    }
+    .herosection{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 110px;
+    }
+    .navlinks ul a{
+        margin-right: 30px;
+    }
+    .navlinks {
+        margin-right: 15px;
+    }
+    .herocontent{
+        text-align: center;
+    }
+    .herobutton{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .heroimg{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .heroimg img{
+        width: 700px;
+    }
+    .herocontent{
+        margin-top: 40px;
+    }
+    .herocontent .head .h1{
+        font-weight: 700;
+        font-size: 3.8rem;
+        line-height: 65px;
+        margin-bottom: 40px;
+    }
+    .herocontent .head .p{
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        margin: 20px 0px 70px 0px;   
+    }
+    .herobutton1 button{
+        width: 200px;
+        height: 55px;
+    }
+    .herobutton2 button{
+        width: 200px;
+        height: 55px;
+    }
+
+    /*  end of header  */
+
+    /* services  */
+
+
+    .holder{
+        padding-bottom: 40px;
+    }
+    .holder1{
+        display: flex;
+        flex-direction: column;
+    }
+    .servicecontent1 .h1,.p{
+        display: flex;
+        justify-content: center; 
+    }
+    .servicecontent1 .h1{
+        font-size: 4rem;
+        margin-bottom: 30px;
+        letter-spacing: 3px;
+    }
+    .servicecontent1 .p{
+        font-size: 1.5rem;
+    }
+    .servicecontent1{
+        margin-top: 70px;
+    }
+    .servicecontent2{
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .servicecontent2 p{
+        font-size: 1.3rem;
+        margin-top: 10px;
+    }
+    .servicecontent2 img{
+        width: 40px;
+    }
+    .sbox1, .sbox2 , .sbox3{
+        width: 210px;
+        height: 200px;
+        background-color: #ffffff;
+        color: #52525B;
+        padding: 20px 10px 20px 10px;
+        text-align: center;
+        border-radius: 10px;
+        margin-inline: 20px;
+        font-weight: 600;
+        font-size: 14px;  
+    }
+
+    .keyservices{
+        display: flex;
+        flex-direction: column;
+    }
+    .kheader{
+        margin: 0px 80px 0px 80px;
+        padding: 0px;
+    }
+    .kheader .h1{
+        text-align: center;
+        font-size: 4.5rem;
+        padding-top: 100px;
+        padding-bottom: 50px;
+        line-height: 90px;
+    }
+    .kheader .h1 span{
+        font-size: 5.5rem;
+    }
+    .kbg1{
+        width: 100%;
+    }
+    .kheader .kimg img{
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        margin-inline: 30px;
+        padding-top: 50px;
+    }
+    .kcontent .p{
+        font-size: 25px;
+        line-height: 50px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .kcontent .hr hr {
+        display: none;
+    }
+    .kcontent .h1 {
+        display: flex;
+        justify-content: center;
+        margin-top: 120px;
+        margin-bottom: 50px;
+        font-size: 2.5rem;
+        
+    }
+    .ktable{
+        display: flex;
+        justify-content: center;
+        font-size: 2rem;
+        margin-left: 40px;
+        
+    }
+    .ktable img{
+        width: 20px;
+    }
+    .ktable span{
+        font-size: 1.9rem;
+        
+    }
+    .ktable1{
+        margin-right: 70px;
+    }
+    .keyservices{
+        margin-bottom: 80px;
+    }
+
+    /* end of services  */
+
+
+    /* features  */
+
+    .features .f1{
+        padding-inline: 60px;
+    }
+    .fhr, .fhr1, .fhr2, .fhr3{
+        display: none;
+    }
+    .fbox1,.fbox2{
+        margin-bottom: 30px;
+    }
+    .ftext{
+        padding-bottom: 60px;
+        display: flex;
+        flex-direction: column;
+        margin-inline: 30px;
+    }
+    .ftext br{
+        display: none;
+    }
+    .ftext h1{
+        font-size: 3.3rem;
+        line-height: 60px;
+    }
+    
+    .ftext h2{
+        font-size: 2.8rem;
+        line-height: 60px;
+        padding-top: 0px;
+    }
+    .ftext h2 span{
+        font-size: 2.8rem;
+    }
+    .fbox img{
+        width: 70px;
+        height: 70px;
+    }
+    
+    .b1,.b2,.b3,.b4,.b5,.b6{
+        border-radius: 14px;
+        width: 270px;
+        height: 250px;
+        padding-top: 40px;
+        margin-right: 30px;
+    }
+    
+     .b1 h3{
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 6px;
+        margin-top: 9px;
+        
+    }
+     .b2 h3{
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 6px;
+        margin-top: 9px;
+        
+    }
+     .b3 h3{
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 6px;
+        margin-top: 9px;
+    }
+     .b4 h3{
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 6px;
+        margin-top: 9px;
+        
+    }
+     .b5 h3{
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 6px;
+        margin-top: 9px;
+        
+    }
+     .b6 h3{
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 6px;
+        margin-top: 9px;
+        
+    }
+     .b1 p{
+        font-size: 10px;
+        line-height: 18px;
+        
+    }
+     .b2 p{
+        font-size: 10px;
+        line-height: 18px;
+        
+        
+    }
+     .b3 p{
+        font-size: 10px;
+        line-height: 18px;
+        
+    }
+     .b4 p{
+        font-size: 10px;
+        line-height: 18px;
+        
+    }
+     .b5 p{
+        font-size: 10px;
+        line-height: 18px;
+        
+    }
+     .b6 p{
+        font-size: 10px;
+        line-height: 18px;
+        
+        
+    }
+   
+    .fbox1,.fbox2{
+        display: flex;
+        position: relative;
+        align-items: center;
+        margin-inline: 60px;
+    
+       
+    }
+    .ftext{
+        display: flex;
+        align-items: center;
+    }
+    .fbox{
+        margin-bottom: 80px;
+    }
+    .c2a{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .c2a h1{
+        font-size: 30px;
+        font-weight: 400;
+        line-height: 55px;
+        padding-bottom: 18px;
+    }
+    .c2a h1 span{
+        font-size: 42px;
+        font-weight: 600;
+        line-height: 55px;
+    }
+    .c2a p{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 28px;
+        padding-bottom: 45px;
+    }
+    
+    .c2a button{
+        
+        width: 285px;
+        height: 45px;
+        font-size: 16px;
+        font-weight: 400;
+    
+    }
+    
+    .c2a button{
+        border: 1px solid white;
+    }
+
+    /* end of features  */
+    
+
+/* who we are  */
+
+.whoweare{
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.wheader br{
+    display: none;
+}
+.wheader{
+    display: flex;
+    flex-direction: column;
+}
+.wheader .h1{
+    font-size: 45px;
+    line-height: 62px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.wheader .h1 span{
+    font-size: 45px;
+    line-height: 62px;
+    margin-bottom: 0px;
+}
+.whr{
+    display: none;
+}
+.wheader .h2 {
+    font-size: 4rem;
+    line-height: 60px; 
+    text-align: start; 
+    font-weight: 700;
+  
+}
+.wheader .h2 span{
+    font-size: 55px;
+    line-height: 60px; 
+}
+.wcontent{
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+}
+.wcontent img{
+    display: none;
+}
+.wtext {
+    border: 1px solid rgba(82, 82, 91, 0.1);
+    border-radius: 12px;
+    padding-inline: 0px;
+    height: 350px;
+    width: 890px;
+    padding-top: 0px;
+    padding-left: 20px;
+    margin-right: 0px;
+    margin-top: 10px;
+    
+}
+.wtext .h2{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+}
+.wtext .p{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    letter-spacing: 1px;
+}
+.wcontent{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+}
+.wcontent .img2 {
+    display: none;
+}
+.wcontent .img3 {
+    display: none;
+}
+.wheader{
+    display: flex;
+    align-items: center;
+    margin-bottom: 0px;
+}
+/* end of who we are  */
+
+/* team  */
+
+.t22 .thr{
+    display: none;
+}
+.theader{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+}
+.theader br{
+    display: none;
+}
+.theader .h2{
+    display: none;
+}
+.team{
+    padding-top: 50px;
+    
+}
+.tteam .h3{
+    padding-top: 25px;
+    padding-bottom: 10px;
+    color: #18181B;
+    font-size: 20px;
+    line-height: 34px;
+    font-weight: 400;
+}
+.tp1{
+    padding-bottom: 15px;
+    font-size: 18px;
+    line-height: 24px;
+    color: #777777;
+    font-weight: 400;
+}
+.tteam .h3{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.tteam{
+    padding-top: 100px;
+}
+.timg1,.timg2,.timg3,.timg4{
+    width: 310px;   
+}
+.timg4{
+    display: none;
+}
+.tteam img{
+    width: 220px;
+}
+.tbt1 button{
+    width: 170px;
+    height: 46px;
+    background-color:  #F8FAFC;;
+    color:var(--primary-color) ;
+    border-radius: 8px;
+    border: 1px solid var(--primary-color);
+    font-size: 16px;
+    font-weight: 400;
+}
+.tteam{
+    margin-inline: 60px;
+}
+/* end of team  */
+
+/* clientreview */
+
+.clientreview{
+    padding-inline: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.ccontent .h1 h1{
+    padding-top: 140px;
+    font-size: 32px;
+    line-height: 50px;
+}
+.cimg1 img{
+    padding: 80px 0px 70px 0px;
+    width: 320px;
+    margin-inline: 0px;
+ }
+ .ccontent .p{
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 32px;
+    font-weight: 400px;
+}
+
+/* end of clientreview */
+
+/* appointment */
+
+/* end of appoinment  */
+
+
+/* newsletter */
+
+.newsletter3{
+    display: block;
+}
+
+/* end of newsletter */
+
+/* footer  */
+
+.footer .part2{
+    display: none;
+}
+.footer2{
+    top: 50px;
+}
+
+/* end of footer  */
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1201px ) and (max-width:1365px){
+
+    /* header */
+
+    .menu{
+        margin: 40px 60px 0px 60px ;
+    }
+    .menuz{
+        display: none;
+    }
+    .ccontent .p2{
+        display: none;
+    }
+    .hrhead{
+        margin: 15px 60px 0px 60px  ;
+    }
+    .herosection{
+        margin: 50px 60px 70px 60px ;
+    }
+    .herocontent .head .h1{
+        font-weight: 700;
+        font-size: 2.8rem;
+        line-height: 55px;
+    }
+    .herocontent .head .p{
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        color: #b7b7b7;
+        margin: 20px 0px 40px 0px;   
+    }
+    .heroimg img{
+        width: 550px;
+    }
+    .herosection{
+        display: flex;
+        justify-content: space-between;
+    }
+    .herocontent{
+        margin: 70px 0px 0px 0px;
+  }
+    .herocontent .head{
+        margin-bottom: 0px;
+  }
+
+  /*  end of header */
+
+  /* services  */
+
+  .holder1{
+    padding: 15px 60px 0px 60px  ;
+}
+.kheader{
+    padding: 95px 0px 95px 60px;
+}
+.kcontent{
+    padding: 95px 60px 95px 0px;
+}
+.kheader .h1{
+    font-size: 40px;
+    line-height: 62px;
+    margin-bottom: 50px;
+}
+.kcontent .p{
+    font-size: 17px;
+    line-height: 32.3px;
+    font-weight: 400;
+    margin-bottom: 0px;
+    margin-right: 10px;
+}
+.kcontent{
+    margin: 0px 60px 0px 40.5px;
+}
+.ktable span{
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 10px;
+ }
+ .kcontent .h1{
+    font-size: 22px;
+    padding-bottom: 20px;
+    margin-top: 186px;
+    margin-bottom: 10px;
+}
+.keyservices{
+    margin-bottom: 100px;
+}
+
+ /* end of services  */
+
+
+
+ /* features  */
+
+.features .f1{
+    padding-inline: 60px;
+}
+.fbox{
+    margin-bottom: 90px;
+}
+.fhr, .fhr1, .fhr2, .fhr3{
+    display: none;
+}
+.fbox1,.fbox2{
+    margin-bottom: 30px;
+}
+.ftext br{
+    display: none;
+}
+.ftext{
+    padding-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ftext h1{
+    font-size: 4rem;
+}
+.ftext h1 span{
+    font-size: 4rem;
+}
+.ftext h2{
+    padding-top: 15px;
+}
+
+
+/* end of features  */
+
+/* who we are  */
+
+.whoweare{
+    margin-top: 70px;
+    margin-bottom: 90px;
+}
+.wheader{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wheader br{
+    display: none;
+}
+.wheader .h1{
+    font-size: 50px;
+    line-height: 62px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    margin-bottom: 6px;
+}
+.wheader .h1 span{
+    font-size: 50px;
+    line-height: 62px;
+    margin-bottom: 50px;
+}
+.whr{
+    display: none;
+}
+.wheader .h2 {
+    font-size: 65px;
+    line-height: 58px; 
+    font-weight: 700; 
+}
+.wheader .h2 span{
+    font-size: 60px;
+    line-height: 60px; 
+}
+.wcontent img{
+    width: 90%;
+}
+.wtext {
+    border: 1px solid rgba(82, 82, 91, 0.1);
+    border-radius: 12px;
+    padding-inline: 0px;
+    height: 290px;
+    width: 490px;
+    padding-top: 0px;
+    padding-left: 20px;
+    margin-right: 0px;
+    margin-top: 10px;
+}
+.wtext .h2{
+    padding-top: 20px;
+}
+.wcontent{
+    display: flex;
+    justify-content: space-between;
+}
+.wcontent .img2 {
+    display: none;
+}
+.wcontent .img3 {
+    display: none;
+}
+
+/* end of who we are  */
+
+/* team  */
+
+.t22 .thr{
+    display: none;
+}
+.theader{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+}
+.theader br{
+    display: none;
+}
+.theader .h2{
+    display: none;
+}
+.team{
+    padding-top: 70px;
+    
+}
+.tteam .h3{
+    padding-top: 25px;
+    padding-bottom: 10px;
+    color: #18181B;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 400;
+}
+.tp1{
+    padding-bottom: 15px;
+    font-size: 16px;
+    line-height: 22px;
+    color: #777777;
+    font-weight: 400;
+}
+.tteam .h3{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.timg1,.timg2,.timg3,.timg4{
+    width: 275px;   
+}
+.tteam img{
+    width: 180px;
+}
+.tbt1 button{
+    width: 160px;
+    height: 44px;
+    background-color:  #F8FAFC;;
+    color:var(--primary-color) ;
+    border-radius: 8px;
+    border: 1px solid var(--primary-color);
+    font-size: 14px;
+    font-weight: 400;
+}
+.tteam{
+    margin-inline: 50px;
+}
+
+/* end of team  */
+
+/* clientreview */
+
+.clientreview{
+    padding-inline: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.ccontent .h1 h1{
+    padding-top: 140px;
+    font-size: 35px;
+    line-height: 55px;
+}
+.cimg1 img{
+    padding: 80px 0px 80px 0px;
+    width: 380px;
+    margin-inline: 0px;
+ }
+ .ccontent .p{
+    padding-top: 23px;
+    font-size: 15px;
+    line-height: 34px;
+    font-weight: 400px;
+}
+
+/* end of clientreview */
+
+/* appointment  */
+
+/* end of appointment  */
+
+/* newslatter  */
+
+.newsletter2{
+    display: block;
+}
+
+/* end of newsletter */
+
+/* footer  */
+ .footer {
+    height: 450px;
+ }
+ .footer2{
+    top: 70px;
+}
+
+/* end of footer  */
+
+
+
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1366px ) and (max-width:2504px){
+    body{
+        max-width: 1366px;
+        margin: 0 auto;
+    }
+    .menuz{
+        display: none;
+    }
+    .ccontent .p2{
+        display: none;
+    }
+    .c2a{
+        margin-inline: 0px;
+    }
+    .wcontent .img2 {
+        display: none;
+    }
+    .wcontent .img3 {
+        display: none;
+    }
+    .whoweare{
+        margin-bottom: 140px;
+    }
+    .appointment{
+        display: block;
+    }
+    .newsletter{
+        display: block;
+    }
+    .footer {
+        height: 450px;
+     }
+     .footer2{
+        top: 80px;
+        height: 100px;
+    }
+    
+}
